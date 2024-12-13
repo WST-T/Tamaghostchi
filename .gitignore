@@ -1,0 +1,54 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug and profiling files
+*.dSYM/
+*.prof
+*.gcda
+*.gcno
+*.gcov
+
+# Dependency files
+*.d
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Generated files
+*.tags
+tags
+*.map
+*.so
+*.dll
+*.a
+*.lib
+*.la
+*.lo
+
+# Coverage files
+coverage/
+*.gcda
+*.gcno
+*.gcov
