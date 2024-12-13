@@ -13,19 +13,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-// Import mood definitions and function declarations
-/**
- * @enum MonsterMood
- * @brief Represents different emotional states of the monster
- */
-typedef enum {
-    HAPPY,
-    EXCITED,
-    SLEEPY,
-    HUNGRY,
-    CONFUSED
-} MonsterMood;
+#include "monster_mood.h"
 
 // Function prototypes (declarations from monster_game.c)
 /**
