@@ -1,6 +1,6 @@
 # Tamaghostchi 👻🎮
 
-<img> ![snowghosty](https://github.com/user-attachments/assets/41f39269-bbb5-4eb3-a70f-83df459bb1fc) </img>
+<img> ![image](https://github.com/user-attachments/assets/779a2a11-fa13-4260-bccc-2bb32d4d3e00) </img>
 
 ## 🌈 Overview
 Tamaghostchi is a playful, interactive C program that simulates a tiny, mood-changing monster companion. This digital pet game allows users to interact with a charming ASCII art monster whose emotions dynamically change based on user interactions.
